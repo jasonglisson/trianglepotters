@@ -390,6 +390,12 @@ ul.event-gallery {
 	margin-bottom: 15px;
 }
 
+#full-member-list {
+	float: left;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
 .member-list .fwrap {
 	height: 214px !important;
 	width:214px;

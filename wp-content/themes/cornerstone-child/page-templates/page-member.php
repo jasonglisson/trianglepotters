@@ -32,7 +32,21 @@ get_header(); ?>
 						<?php the_content(); ?>
 					</div>
 
-						<?php $args = array( 'post_type' => 'member', 'meta_key' => 'last_name', 'orderby' => 'meta_value', 'order' => 'ASC', 'posts_per_page' => 200 );
+						<?php 
+							$args = array( 
+								'post_type' => 'member', 
+								'meta_key' => 'last_name', 
+								'orderby' => 'meta_value', 
+								'meta_query' => array(
+									array(
+										'key'     => '_thumbnail_id',
+										'value'   => '',
+										'compare' => '!=',
+									),
+								),
+								'order' => 'ASC', 
+								'posts_per_page' => -1 
+							);
 						$loop = new WP_Query( $args );
 						echo '<ul>';
 						while ( $loop->have_posts() ) : $loop->the_post();
@@ -66,6 +80,37 @@ get_header(); ?>
 						?>
 				</article>
 
+
+			<?php endwhile; ?>
+
+			<?php while ( have_posts() ) : the_post(); ?>
+			<div id="full-member-list">
+				<article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
+
+					<header class="entry-header">
+						<h1 class="entry-title">Full Member List</h1>
+					</header>
+
+						<?php 
+							$args = array( 
+								'post_type' => 'member', 
+								'meta_key' => 'last_name', 
+								'orderby' => 'meta_value', 
+								'order' => 'ASC', 
+								'posts_per_page' => -1 
+							);
+						$loop = new WP_Query( $args );
+						echo '<ul>';
+						while ( $loop->have_posts() ) : $loop->the_post();
+							?><li class="member-list"><a href="<?php the_permalink() ?>">
+									<?php the_field('first_name');?> <?php the_field('last_name');?>
+									</a>
+								</li>
+						<?php endwhile; 
+						echo '</ul>';
+						?>
+				</article>
+			</div>
 
 			<?php endwhile; ?>
 
