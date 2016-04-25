@@ -1,0 +1,106 @@
+/*
+Theme Name: Cornerstone, for WordPress
+Theme URI: http://www.thewirelessguy.co.uk
+Description: A Responsive Starter Theme based on Zurb Foundation
+Author: Stephen Mullen
+Author URI: http://www.thewirelessguy.co.uk
+Version: 3.0.3
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+
+.front-image {
+	width:100%;
+}
+
+#container {
+	width:675px;
+}
+
+.fwrap {
+	float:left;
+	margin:7px;
+	display:block;
+}
+
+.fimage-wrapper1 {
+	height: 283px;
+	width: 175px;
+	overflow:hidden;
+}
+
+.fimage-wrapper2 {
+	width: 250px;
+	overflow:hidden;
+	height:135px;
+}
+
+.fimage-wrapper3 {
+	width:135px;
+	height:135px;
+	overflow:hidden;
+}
+
+.fimage-wrapper4 {
+	width: 135px;
+	height: 135px;
+	overflow: hidden;
+}
+
+.fimage-wrapper5{
+	width: 250px;
+	height: 135px;
+	overflow: hidden;
+}
+
+.fimage-wrapper6 {
+	width: 250px;
+	height: 135px;
+	overflow: hidden;
+}
+
+.fimage-wrapper7 {
+	width: 135px;
+	height: 135px;
+	overflow: hidden;
+}
+
+.fimage-wrapper8 {
+	width: 175px;
+	height: 135px;
+	overflow: hidden;
+}
+
+.item { 
+
+}
+
+.fimage1{
+	height:100%;
+	
+}
+.fimage2{
+	margin-top:-50%;
+}
+.fimage3{
+	margin-top:-20%;
+}
+.fimage4{
+	margin-top:-15%;
+}
+.fimage5{
+	margin-top:-50%;
+}
+.fimage6{
+	margin-top:-50%;
+}
+.fimage7{
+	margin-top:-20%;
+}
+.fimage8{
+	margin-top:-35%;
+}
+.fimage6{}
+.fimage7{}
+.fimage8{}

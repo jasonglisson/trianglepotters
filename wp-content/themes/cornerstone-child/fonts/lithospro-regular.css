@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'LithosProRegular';
+    src: url('lithospro-regular.eot');
+    src: url('lithospro-regular.eot') format('embedded-opentype'),
+         url('lithospro-regular.woff') format('woff'),
+         url('lithospro-regular.ttf') format('truetype'),
+         url('lithospro-regular.svg#LithosProRegular') format('svg');
+}
