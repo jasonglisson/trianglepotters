@@ -1,4 +1,4 @@
-<?php
+<?php define('WPCF7_LOAD_JS', false);
 /**
  * The base configurations of the WordPress.
  *
@@ -16,13 +16,13 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'trianglepotters');
+define('DB_NAME', 'jasong11_trianglepotters');
 
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', 'jasong11_tri');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'root');
+define('DB_PASSWORD', 'admin2abc');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');

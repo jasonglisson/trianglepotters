@@ -1,0 +1,780 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Google Sitemap - BWS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-30 14:34+0300\n"
+"PO-Revision-Date: 2017-08-30 14:34+0300\n"
+"Last-Translator: Mik013\n"
+"Language-Team: Mik013\n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: google-sitemap-plugin.php:38 google-sitemap-plugin.php:48
+#: includes/class-gglstmp-settings.php:157
+msgid "Google Sitemap Settings"
+msgstr "Nastavení Google Sitemap"
+
+#: google-sitemap-plugin.php:49 google-sitemap-plugin.php:808
+#: google-sitemap-plugin.php:1190 google-sitemap-plugin.php:1203
+#: includes/class-gglstmp-settings.php:27
+msgid "Settings"
+msgstr "Nastavení"
+
+#: google-sitemap-plugin.php:57 google-sitemap-plugin.php:58
+#: google-sitemap-plugin.php:813
+msgid "Custom Links"
+msgstr "Uživatelské odkazy"
+
+#: google-sitemap-plugin.php:76 includes/pro_banners.php:27
+msgid "Upgrade to Pro"
+msgstr "Aktualizovat na Pro"
+
+#: google-sitemap-plugin.php:343
+msgid "Post categories"
+msgstr "Rubriky příspěvků"
+
+#: google-sitemap-plugin.php:344
+msgid "Post tags"
+msgstr "Štítky příspěvků"
+
+#: google-sitemap-plugin.php:809
+msgid "Please enable JavaScript in your browser."
+msgstr "Prosím, povolte JavaScript ve vašem prohlížeči."
+
+#: google-sitemap-plugin.php:814
+msgid "Add New"
+msgstr "Přidat nový"
+
+#: google-sitemap-plugin.php:856 google-sitemap-plugin.php:933
+#: google-sitemap-plugin.php:983
+msgid "Website"
+msgstr "Webová stránka"
+
+#: google-sitemap-plugin.php:867 google-sitemap-plugin.php:871
+#: google-sitemap-plugin.php:949 google-sitemap-plugin.php:965
+#: google-sitemap-plugin.php:987 google-sitemap-plugin.php:1001
+msgid "Status"
+msgstr "Stav"
+
+#: google-sitemap-plugin.php:868 google-sitemap-plugin.php:891
+#: google-sitemap-plugin.php:966
+msgid "Not added"
+msgstr "Nepřidáno"
+
+#: google-sitemap-plugin.php:872 google-sitemap-plugin.php:894
+#: google-sitemap-plugin.php:988 google-sitemap-plugin.php:1097
+msgid "Added"
+msgstr "Přidáno"
+
+#: google-sitemap-plugin.php:874 google-sitemap-plugin.php:1043
+#: google-sitemap-plugin.php:1055 google-sitemap-plugin.php:1069
+msgid "Verification Status"
+msgstr "Stav ověření"
+
+#: google-sitemap-plugin.php:876
+msgid "Verified"
+msgstr "Ověřeno"
+
+#: google-sitemap-plugin.php:878
+msgid "Not verified"
+msgstr "Nevěřeno"
+
+#: google-sitemap-plugin.php:886 google-sitemap-plugin.php:1076
+msgid "Sitemap Status"
+msgstr "Stav sitemap.xml"
+
+#: google-sitemap-plugin.php:896
+msgid "Added with errors."
+msgstr "Přidáno s chybami."
+
+#: google-sitemap-plugin.php:896
+msgid "View errors in Google Webmaster Tools"
+msgstr "Zobrazit chyby v Google Webmaster Tools"
+
+#: google-sitemap-plugin.php:899
+msgid "Sitemap URL"
+msgstr "URL sitemap.xml"
+
+#: google-sitemap-plugin.php:902 google-sitemap-plugin.php:918
+#: google-sitemap-plugin.php:968 google-sitemap-plugin.php:1003
+#: google-sitemap-plugin.php:1040 google-sitemap-plugin.php:1071
+#: google-sitemap-plugin.php:1110 google-sitemap-plugin.php:1129
+#: includes/class-gglstmp-settings.php:379
+msgid "Error"
+msgstr "Chyba"
+
+#: google-sitemap-plugin.php:902
+msgid "Please check the sitemap file manually."
+msgstr "Zkontrolujte soubor sitemap.xml manuálně."
+
+#: google-sitemap-plugin.php:902 google-sitemap-plugin.php:920
+#: google-sitemap-plugin.php:1005 google-sitemap-plugin.php:1044
+#: google-sitemap-plugin.php:1073 google-sitemap-plugin.php:1112
+#: includes/class-gglstmp-settings.php:233 includes/pro_banners.php:47
+msgid "Learn More"
+msgstr "Více informací"
+
+#: google-sitemap-plugin.php:907 google-sitemap-plugin.php:956
+#: google-sitemap-plugin.php:991 google-sitemap-plugin.php:1028
+#: google-sitemap-plugin.php:1059 google-sitemap-plugin.php:1100
+msgid "Unexpected error"
+msgstr "Neočekávaná chyba"
+
+#: google-sitemap-plugin.php:920 google-sitemap-plugin.php:1005
+#: google-sitemap-plugin.php:1073
+msgid "Manual verification required."
+msgstr "Je vyžadováno ruční ověření."
+
+#: google-sitemap-plugin.php:950
+msgid "Deleted"
+msgstr "Odstraněno"
+
+#: google-sitemap-plugin.php:1020 google-sitemap-plugin.php:1023
+#: google-sitemap-plugin.php:1039
+msgid "Verification Code"
+msgstr "Ověřovací kód"
+
+#: google-sitemap-plugin.php:1021
+msgid "Received and added to the site"
+msgstr "Přijato a přidáno na web"
+
+#: google-sitemap-plugin.php:1024
+msgid "Received, but has not been added to the site"
+msgstr "Přijato avšak nepřidáno na web"
+
+#: google-sitemap-plugin.php:1112
+msgid "Please add the sitemap file manually."
+msgstr "Přidejte soubor sitemap.xml manuálně."
+
+#: google-sitemap-plugin.php:1117
+msgid "Error 404"
+msgstr "Chyba 404"
+
+#: google-sitemap-plugin.php:1119
+#, php-format
+msgid "The sitemap file %s not found."
+msgstr "Soubor sitemap.xml %s nebyl nalezen."
+
+#: google-sitemap-plugin.php:1129
+msgid "The sitemap file not found."
+msgstr "Soubor sitemap.xml nebyl nalezen."
+
+#: google-sitemap-plugin.php:1204
+msgid "FAQ"
+msgstr "Časté dotazy (FAQ)"
+
+#: google-sitemap-plugin.php:1205
+msgid "Support"
+msgstr "Podpora"
+
+#: includes/class-gglstmp-settings.php:28
+msgid "Structure"
+msgstr "Struktura"
+
+#: includes/class-gglstmp-settings.php:29
+msgid "Misc"
+msgstr "Různé"
+
+#: includes/class-gglstmp-settings.php:30
+msgid "License Key"
+msgstr "Licenční klíč"
+
+#: includes/class-gglstmp-settings.php:147
+msgid "Settings saved."
+msgstr "Nastavení uloženo."
+
+#: includes/class-gglstmp-settings.php:180
+msgid ""
+"Also, please add the following code to the beginning of your \".htaccess\" "
+"file:"
+msgstr "Také přidejte následující kód na začátek souboru \".htaccess\":"
+
+#: includes/class-gglstmp-settings.php:194
+msgid "This option will be applied to all websites in the network."
+msgstr "Tato volba bude použita pro všechny weby v síti."
+
+#: includes/class-gglstmp-settings.php:197
+msgid "Activate"
+msgstr "Aktivovat"
+
+#: includes/class-gglstmp-settings.php:201
+msgid "Install Now"
+msgstr "Instalovat nyní"
+
+#: includes/class-gglstmp-settings.php:207
+#, php-format
+msgid "%s Plugin"
+msgstr "%s Plugin"
+
+#: includes/class-gglstmp-settings.php:209
+#, php-format
+msgid "Enable to allow XML files access using %s plugin."
+msgstr "Povolte přístup ke XML souborům pomocí %s pluginu."
+
+#: includes/class-gglstmp-settings.php:210
+msgid "The following string will be added to your .htaccess file"
+msgstr "Následující řetězec bude přidán do vašeho .htaccess souboru"
+
+#: includes/class-gglstmp-settings.php:218
+#: includes/class-gglstmp-settings.php:323 includes/pro_banners.php:21
+msgid "Close"
+msgstr "Zavřít"
+
+#: includes/class-gglstmp-settings.php:229
+msgid "URLs Limit"
+msgstr "Limit URL adres"
+
+#: includes/class-gglstmp-settings.php:233
+msgid ""
+"A sitemap file can't contain more than 50,000 URLs and must be no larger "
+"than 50 MB uncompressed."
+msgstr ""
+"Soubor sitemap.xml nesmí obsahovat více než 50 000 URL adres a v "
+"nekomprimované podobě nesmí být větší než 50 MB."
+
+#: includes/class-gglstmp-settings.php:234
+msgid "Decrease the limit if your sitemap exceeds file size limit."
+msgstr ""
+"Snižte limit, pokud váš soubor sitemap.xml překročí limit velikosti souboru."
+
+#: includes/class-gglstmp-settings.php:235
+msgid ""
+"When the limit is reached, the sitemap will be splitted into multiple files."
+msgstr "Po dosažení limitu bude soubor sitemap.xml rozdělen na více souborů."
+
+#: includes/class-gglstmp-settings.php:240
+msgid "Google Webmaster Tools"
+msgstr "Google Webmaster Tools"
+
+#: includes/class-gglstmp-settings.php:243
+msgid ""
+"This hosting does not support сURL, so you cannot add a sitemap file "
+"automatically."
+msgstr ""
+"Váš hosting nepodporuje cURL, takže nemůžete přidat soubor sitemap.xml (do "
+"Google?) automaticky."
+
+#: includes/class-gglstmp-settings.php:246
+msgid "Logout from Google Webmaster Tools"
+msgstr "Odhlásit se z Google Webmaster Tools"
+
+#: includes/class-gglstmp-settings.php:250
+msgid "Manage Website with Google Webmaster Tools"
+msgstr "Spravovat web s  Google Webmaster Tools"
+
+#: includes/class-gglstmp-settings.php:252
+msgid "Add"
+msgstr "Přidat"
+
+#: includes/class-gglstmp-settings.php:253 includes/pro_banners.php:138
+msgid "Delete"
+msgstr "Smazat"
+
+#: includes/class-gglstmp-settings.php:254
+msgid "Get Info"
+msgstr "Získat informace"
+
+#: includes/class-gglstmp-settings.php:256
+msgid ""
+"Add, delete or get info about this website using your Google Webmaster Tools "
+"account."
+msgstr ""
+"Přidat, odstranit nebo zobrazit informace o tomto webu pomocí účtu Google "
+"Webmaster Tools."
+
+#: includes/class-gglstmp-settings.php:264
+msgid "Get Authorization Code"
+msgstr "Získat autorizační kód"
+
+#: includes/class-gglstmp-settings.php:267
+msgid "Authorize"
+msgstr "Schválit"
+
+#: includes/class-gglstmp-settings.php:270
+msgid "Invalid authorization code. Please try again."
+msgstr "Neplatný autorizační kód. Zkuste to znovu."
+
+#: includes/class-gglstmp-settings.php:275
+msgid "You can also add your sitemap to Google Webmaster Tools manually."
+msgstr "Můžete také přidat soubor sitemap.xml na Google Webmaster Tools ručně."
+
+#: includes/class-gglstmp-settings.php:275
+msgid "Read the instruction"
+msgstr "Přečíst si instrukce"
+
+#: includes/class-gglstmp-settings.php:290
+msgid "Post category"
+msgstr "Kategorie příspěvku"
+
+#: includes/class-gglstmp-settings.php:291
+msgid "Post tag"
+msgstr "Štítek příspěvku"
+
+#: includes/class-gglstmp-settings.php:293
+msgid "Sitemap Structure"
+msgstr "Struktura sitemap.xml"
+
+#: includes/class-gglstmp-settings.php:298
+msgid "Post Types"
+msgstr "Typy příspěvků"
+
+#: includes/class-gglstmp-settings.php:305
+msgid "Enable to add post type links to the sitemap."
+msgstr "Do souboru sitemap.xml přidat typy příspěvků."
+
+#: includes/class-gglstmp-settings.php:309
+msgid "Taxonomies"
+msgstr "Taxonomie"
+
+#: includes/class-gglstmp-settings.php:316
+msgid "Enable to taxonomy links to the sitemap."
+msgstr "Do souboru sitemap.xml přidat taxonomie."
+
+#: includes/class-gglstmp-settings.php:370
+msgid "Note"
+msgstr "Poznámka"
+
+#: includes/class-gglstmp-settings.php:370
+msgid ""
+"Another plugin is providing Google Client functionality and may interrupt "
+"proper plugin work."
+msgstr ""
+"Nějaký jiný plugin poskytuje funkce Google clienta a může narušit správnou "
+"funkci pluginu."
+
+#: includes/class-gglstmp-settings.php:380
+#, php-format
+msgid ""
+"Can't access XML files on subsites. Add the following rule %s to your %s "
+"file in %s after %s or install, activate and enable %s plugin option to "
+"resolve this error."
+msgstr ""
+"Nelze získat přístup k souborům XML na podřízených webech. Přidejte "
+"následující pravidlo %s do souboru %s v %s po %s nebo zkuste instalovat, "
+"aktivovat a povolit plugin %s Chcete-li vyřešit tuto chybu."
+
+#: includes/class-gglstmp-settings.php:395
+#, php-format
+msgid "%s is in the site root directory."
+msgstr "%s je v kořenovém adresáři webu."
+
+#: includes/class-gglstmp-settings.php:396
+msgid "The Sitemap file"
+msgstr "Soubor sitemap.xml"
+
+#: includes/pro_banners.php:18
+msgid "This option is available in Pro version of plugin"
+msgstr "Toto nastavení je k dispozici v Pro verzi pluginu"
+
+#: includes/pro_banners.php:42 includes/pro_banners.php:106
+#: includes/pro_banners.php:185
+msgid "Change Frequency"
+msgstr "Frekvence obnovy"
+
+#: includes/pro_banners.php:45 includes/pro_banners.php:143
+#: includes/pro_banners.php:151 includes/pro_banners.php:159
+#: includes/pro_banners.php:167 includes/pro_banners.php:175
+msgid "Monthly"
+msgstr "Měsíčně"
+
+#: includes/pro_banners.php:47
+msgid ""
+"This value provides general information to search engines and tell them how "
+"frequently the page is likely to change. It may not correlate exactly to how "
+"often they crawl the website."
+msgstr ""
+"Tato hodnota poskytuje obecné informace vyhledávačům a řekněte jim, jak "
+"často se stránka mění. Což nemusí přesně korelovat s tím, jak často "
+"procházejí web."
+
+#: includes/pro_banners.php:51
+msgid "External Sitemap Update Frequency"
+msgstr "Frekvence aktualizace externího sitemap.xml"
+
+#: includes/pro_banners.php:53
+msgid "day(-s)"
+msgstr "den(y)"
+
+#: includes/pro_banners.php:55
+msgid ""
+"This option sets how often the external index sitemap files should be "
+"checked for updates."
+msgstr ""
+"Tato volba určuje, jak často by měly být aktualizovány soubory externího "
+"sitemap.xml indexu."
+
+#: includes/pro_banners.php:69
+msgid "Example of site pages' tree"
+msgstr "Příklad stromu stránek webu"
+
+#: includes/pro_banners.php:82
+msgid "All"
+msgstr "Vše"
+
+#: includes/pro_banners.php:83
+msgid "Enabled"
+msgstr "Povolen"
+
+#: includes/pro_banners.php:84
+msgid "Disabled"
+msgstr "Zakázán"
+
+#: includes/pro_banners.php:88
+msgid "Search"
+msgstr "Hledání"
+
+#: includes/pro_banners.php:93
+msgid "Bulk Actions"
+msgstr "Hromadné akce"
+
+#: includes/pro_banners.php:95
+msgid "Apply"
+msgstr "Použít"
+
+#: includes/pro_banners.php:97
+msgid "items"
+msgstr "položky"
+
+#: includes/pro_banners.php:105 includes/pro_banners.php:184
+msgid "Priority"
+msgstr "Priorita"
+
+#: includes/pro_banners.php:107 includes/pro_banners.php:186
+msgid "Last Changed"
+msgstr "Poslední změna"
+
+#: includes/pro_banners.php:116
+msgid "Please note"
+msgstr "Upozorňujeme"
+
+#: includes/pro_banners.php:117
+msgid ""
+"All URLs listed in the sitemap.xml must use the same protocol (HTTP or "
+"HTTPS) and must be located on the same host as the sitemap.xml. For more "
+"info see"
+msgstr ""
+"Všechny URL adresy uvedené v sitemap.xml musí používat stejný protokol (HTTP "
+"nebo HTTPS) a nacházet se na stejném hostu jako sitemap.xml. Pro více "
+"informací viz"
+
+#: includes/pro_banners.php:117
+msgid "here"
+msgstr "zde"
+
+#: includes/pro_banners.php:124
+msgid "Always"
+msgstr "Vždy"
+
+#: includes/pro_banners.php:128
+msgid "Save"
+msgstr "Uložit"
+
+#: includes/pro_banners.php:136
+msgid "Edit"
+msgstr "Upravit"
+
+#: includes/pro_banners.php:137
+msgid "Disable"
+msgstr "Zakázat"
+
+#: includes/pro_banners.php:141
+msgid "Yes"
+msgstr "Ano"
+
+#: includes/pro_banners.php:149 includes/pro_banners.php:157
+#: includes/pro_banners.php:165 includes/pro_banners.php:173
+msgid "No"
+msgstr "Ne"
+
+#~ msgid "Please enable JavaScript in Your browser."
+#~ msgstr "Prosím, povolte JavaScript ve vašem prohlížeči."
+
+#~ msgid "Cannot edit \"robots.txt\". Check your permissions"
+#~ msgstr "Nelze upravit \"robots.txt\". Prosím, zkontrolujte oprávnění"
+
+#~ msgid ""
+#~ "Since you are using multisiting, the plugin does not allow to add a "
+#~ "sitemap to %s."
+#~ msgstr ""
+#~ "Vzhledem k tomu, že používáte multisite, plugin neumožňuje přidat soubor "
+#~ "sitemap.xml do %s."
+
+#~ msgid "Enable to add a sitemap file path to the %s file."
+#~ msgstr "Přidat cestu k souboru sitemap.xml do souboru %s."
+
+#~ msgid "Cannot edit \"robot.txt\". Check your permissions"
+#~ msgstr "Nelze upravit \"robot.txt\". Prosím, zkontrolujte oprávnění"
+
+#~ msgid "The Sitemap file for this site has been deleted by network admin."
+#~ msgstr ""
+#~ "Soubor sitemap.xml pro tento web byl odstraněn sítovým administrátorem."
+
+#~ msgid "This options is available in Pro version of plugin"
+#~ msgstr "Toto nastavení je k dispozici v Pro verzi pluginu"
+
+#~ msgid ""
+#~ "All URLs listed in the sitemap.xml must use the same protocol ( HTTP or "
+#~ "HTTPS ) and reside on the same host as the sitemap.xml. For more info see"
+#~ msgstr ""
+#~ "Všechny URL adresy uvedené v sitemap.xml musí používat stejný protokol "
+#~ "(HTTP nebo HTTPS) a nacházet se na stejném hostu jako sitemap.xml. Pro "
+#~ "více informací viz"
+
+#~ msgid "Settings saved"
+#~ msgstr "Nastavení uloženo"
+
+#~ msgid "Your Sitemap file has been created in the site root directory"
+#~ msgstr "Váš soubor sitemap.xml byl vytvořen v kořenovém adresáři webu"
+
+#~ msgid "All plugin settings were restored."
+#~ msgstr "Všechna nastavení pluginu byla obnovena."
+
+#~ msgid "Custom links"
+#~ msgstr "Vlastní odkazy"
+
+#~ msgid "Extra settings"
+#~ msgstr "Další nastavení"
+
+#~ msgid "Go PRO"
+#~ msgstr "Přejít na PRO"
+
+#~ msgid "Warning:"
+#~ msgstr "Upozornění:"
+
+#~ msgid ""
+#~ "To have an access to subsites XML files, please add the following rule %s "
+#~ "to your %s file in %s after line %s or you can use option %s"
+#~ msgstr ""
+#~ "Pro přístup ke XML souborům subwebů, přidejte následující pravidlo %s do "
+#~ "vašeho %s souboru v %s za řádek %s nebo použijte možnost %s"
+
+#~ msgid "Allow access to XML files"
+#~ msgstr "Povolit přístup k souborům XML"
+
+#~ msgid "Сheck Access"
+#~ msgstr "Zkontrolovat přístup"
+
+#~ msgid ""
+#~ "already exists. If you would like to replace it with a new one, please "
+#~ "choose the necessary box below"
+#~ msgstr ""
+#~ "již existuje. Pokud jej chcete nahradit novým, zaškrtněte odpovídající "
+#~ "zaškrtávací políčko níže"
+
+#~ msgid "Your Sitemap file"
+#~ msgstr "Váš soubor sitemap.xml"
+
+#~ msgid "has been created in the site root directory"
+#~ msgstr "byl vytvořen v kořenovém adresáři webu"
+
+#~ msgid "create a new sitemap file or update the existing one"
+#~ msgstr "vytvořit nový soubor sitemap.xml nebo aktualizovat stávající"
+
+#~ msgid "add sitemap file path in robots.txt"
+#~ msgstr "přidat cestu k souboru sitemap.xml do souboru robots.txt"
+
+#~ msgid ""
+#~ "Since you are using multisiting, the plugin does not allow to add a "
+#~ "sitemap to robots.txt"
+#~ msgstr ""
+#~ "Protože používáte multisite, plugin neumožnuje přidat sitemap.xml do "
+#~ "robots.txt"
+
+#~ msgid "add sitemap file path in"
+#~ msgstr "přidat cestu k sitemap.xml souboru do"
+
+#~ msgid "Add post types and taxonomies links to the sitemap"
+#~ msgstr "Do souboru sitemap.xml přidat typy příspěvků a taxonomie"
+
+#~ msgid "This option will be applied to all websites in the network"
+#~ msgstr "Toto nastavení bude aplikováno na všechny weby v síti"
+
+#~ msgid "You should %s to use this functionality"
+#~ msgstr "Měli byste %s chcete-li tuto funkci využívat"
+
+#~ msgid "activate"
+#~ msgstr "aktivovat"
+
+#~ msgid "for network"
+#~ msgstr "pro síť"
+
+#~ msgid "download"
+#~ msgstr "stáhnout"
+
+#~ msgid ""
+#~ "This hosting does not support сURL, so you cannot add a sitemap file "
+#~ "automatically"
+#~ msgstr ""
+#~ "Váš hosting nepodporuje cURL, takže nemůžete přidat soubor sitemap.xml "
+#~ "(do Google?) automaticky"
+
+#~ msgid ""
+#~ "You can always add your sitemap to Google Webmaster Tools manually. For "
+#~ "more info see"
+#~ msgstr ""
+#~ "Stále však můžete váš sitemap.xml přidat do Google Webmaster Tools ručně. "
+#~ "Pro více informací si projděte"
+
+#~ msgid "the instruction"
+#~ msgstr "instrukce"
+
+#~ msgid "Remote work with Google Webmaster Tools"
+#~ msgstr "Komunikace s  Google Webmaster Tools"
+
+#~ msgid "Log out from Google Webmaster Tools"
+#~ msgstr "Odhlásit se z Google Webmaster Tools"
+
+#~ msgid "add this site to Google Webmaster Tools"
+#~ msgstr "přidat tento web na Google Webmaster Tools"
+
+#~ msgid "delete this site from Google Webmaster Tools"
+#~ msgstr "odebrat tento web z Google Webmaster Tools"
+
+#~ msgid "get info about this site in Google Webmaster Tools"
+#~ msgstr "získat informace o tomto webu z Google Webmaster Tools"
+
+#~ msgid ""
+#~ "Please authorize via your Google Account in order to add or delete a site "
+#~ "and a sitemap file automatically or get information about this site in "
+#~ "Google Webmaster Tools"
+#~ msgstr ""
+#~ "Za účelem přidávání nebo automatického odstranění webu a souboru sitemap, "
+#~ "anebo získání informací o tomto webu v Google Webmaster Tools - povolte "
+#~ "tyto možnosti prostřednictvím vašeho účtu Google "
+
+#~ msgid "Invalid authorization code. Please, try again"
+#~ msgstr "Neplatný autorizační kód. Zkuste to znovu"
+
+#~ msgid "Save Changes"
+#~ msgstr "Uložit změny"
+
+#~ msgid "Site info for %s"
+#~ msgstr "Informace o webu %s"
+
+#~ msgid "This site has not been added to Google Webmaster Tools"
+#~ msgstr "Tento web nebyl přidán na Google Webmaster Tools"
+
+#~ msgid "Site URL"
+#~ msgstr "URL stránek"
+
+#~ msgid "Site verification"
+#~ msgstr "Ověření webu"
+
+#~ msgid "verified"
+#~ msgstr "ověřen"
+
+#~ msgid "not verified"
+#~ msgstr "neověřen"
+
+#~ msgid "Failed to verify the site in Google Webmaster Tools"
+#~ msgstr "Selhalo ověření tohoto webu na Google Webmaster Tools"
+
+#~ msgid "The site couldn't be verified. Please, verify the site manually"
+#~ msgstr "Tento web nebyl ověřen. Proveďte ověření webu manuálně"
+
+#~ msgid "View the Instruction"
+#~ msgstr "Zobrazit instrukce"
+
+#~ msgid "The sitemap file has not been added to Google Webmaster Tools"
+#~ msgstr "Soubor sitemap.xml nebyl přidán na Google Webmaster Tools"
+
+#~ msgid ""
+#~ "The sitemap file has been added to Google Webmaster Tools, but has some "
+#~ "errors or warnings"
+#~ msgstr ""
+#~ "Soubor sitemap.xml byl přidán na Google Webmaster Tools, ale s nějakými "
+#~ "chybami nebo varováními"
+
+#~ msgid "Please, see them in Google Webmaster Tools"
+#~ msgstr "Zobrazit je na Google Webmaster Tools"
+
+#~ msgid ""
+#~ "When checking the sitemap file an unexpected error occurred. Please, "
+#~ "check the sitemap file manually"
+#~ msgstr ""
+#~ "Při kontrole souboru sitemap.xml došlo k neočekávané chybě. Zkontrolujte "
+#~ "sitemap.xml manuálně"
+
+#~ msgid "This site has been successfully deleted from Google Webmaster Tools"
+#~ msgstr "Tento web byl úspěšně odstraněn z Google Webmaster Tools"
+
+#~ msgid "The site has been added to Google Webmaster Tools"
+#~ msgstr "Tento web byl přidán na Google Webmaster Tools"
+
+#~ msgid "An error occurred while adding the site in Google Webmaster Tools"
+#~ msgstr "Došlo k chybě při přidávání webu na Google Webmaster Tools"
+
+#~ msgid "The site couldn't be added. Please, add the site manually"
+#~ msgstr "Tento web nemohl být přidán. Přidejte jej manuálně"
+
+#~ msgid ""
+#~ "Verification code has been successfully received and added to the site"
+#~ msgstr "Ověřovací kód byl obdržen a úspěšně přidán na web"
+
+#~ msgid ""
+#~ "Verification code has been successfully received but has not been added "
+#~ "to the site"
+#~ msgstr "Ověřovací kód byl obdržen, ale nebyl přidán na web"
+
+#~ msgid ""
+#~ "An error has occurred when receiving the verification code site in Google "
+#~ "Webmaster"
+#~ msgstr ""
+#~ "Došlo k chybě při získávání ověřovacího kódu z Google Webmaster Tools"
+
+#~ msgid "The site has been successfully verified in Google Webmaster Tools"
+#~ msgstr "Tento web byl úspěšně ověřen na Google Webmaster Tools"
+
+#~ msgid ""
+#~ "An unexpected error occurred when verifying site in Google Webmaster Tools"
+#~ msgstr ""
+#~ "Došlo k neočekávané chybě při ověřování webu na Google Webmaster Tools"
+
+#~ msgid ""
+#~ "The sitemap file has been successfully added to Google Webmaster Tools"
+#~ msgstr "Soubor sitemap.xml byl úspěšně přidán na Google Webmaster Tools"
+
+#~ msgid ""
+#~ "An error occurred while adding the sitemap file in Google Webmaster Tools"
+#~ msgstr ""
+#~ "Došlo k chybě při přidáváni souboru sitemap.xml na Google Webmaster Tools"
+
+#~ msgid ""
+#~ "The sitemap file couldn't be added. Please, add the sitemap file manually"
+#~ msgstr "Soubor sitemap.xml nemohl být přidán. Přidejte jej manuálně"
+
+#~ msgid "Error 404. The sitemap file %s not found"
+#~ msgstr "Chyba404. Soubor sitemap.xml %s nenalezen"
+
+#~ msgid "The sitemap file not found"
+#~ msgstr "Soubor sitemap.xml nebyl nalezen"
+
+#~ msgid "Unlock premium options by upgrading to Pro version"
+#~ msgstr "Odemkněte prémiové možnosti upgradem na Pro verzi"
+
+#~ msgid "XML Sitemap \"Change Frequency\" parameter"
+#~ msgstr "Parametr sitemap.xml &lt;changefreq&gt; \"Frekvence změn\""
+
+#~ msgid ""
+#~ "This value is used in the sitemap file and provides general information "
+#~ "to search engines. The sitemap itself is generated once and will be re-"
+#~ "generated when you create or update any post or page. For more info see"
+#~ msgstr ""
+#~ "Tato hodnota je použita v souboru sitemap.xml a poskytuje obecné "
+#~ "informace pro vyhledávače. Samotný sitemap.xml je generován pouze jednou "
+#~ "a bude znovu přegenerován pokud vytvoříte nebo upravíte nějaký příspěvek "
+#~ "anebo stránku. Pro více informací viz"
+
+#~ msgid "Show URL for pages"
+#~ msgstr "Zobrazovat URL pro stránky"
+
+#~ msgid "Save link"
+#~ msgstr "Uložit odkaz"
