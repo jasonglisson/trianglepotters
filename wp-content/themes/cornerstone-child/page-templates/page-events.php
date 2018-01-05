@@ -31,6 +31,7 @@ get_header(); ?>
 					<div class="entry-content">
 						<?php the_content(); ?>
 						<h3 style="color:#666;border-bottom:1px dotted #ddd;">Upcoming Events</h3> 
+						<ul>
 						<?php /*
 $args = array( 
 							'post_type' => 'event', 
