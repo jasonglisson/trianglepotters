@@ -34,7 +34,7 @@ get_header(); ?>
 					</div>
 				    <div id="slider" class="flexslider">
 				        <ul class="slides">
-						<?php $args = array( 'post_type' => 'gallery', 'order' => 'ASC', 'posts_per_page' => 200 );
+						<?php $args = array( 'post_type' => 'gallery', 'order' => 'DESC', 'posts_per_page' => 200 );
 						$loop = new WP_Query( $args );
 						while ( $loop->have_posts() ) : $loop->the_post();
 							$image = get_field('gallery' , $loop->post->ID);	
